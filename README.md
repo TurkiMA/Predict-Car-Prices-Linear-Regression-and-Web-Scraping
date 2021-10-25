@@ -1,4 +1,4 @@
-# Project Proposal#2:
+# Project Proposal
 
 ## Goal:
 
