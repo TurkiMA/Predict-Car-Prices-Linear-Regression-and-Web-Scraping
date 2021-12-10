@@ -1,4 +1,4 @@
-# Project Proposal
+# Linear Regression and Web Scraping Project to Predict Car Prices
 
 ## Goal:
 
