@@ -2,16 +2,12 @@
 
 ## Goal:
 
-Building a model to predict car price by importing large 
-data from carvago.com.While using statistics and probability analysis with 
-linear regression and converting non-numeric values such
-as fuel type of car to dummy variables.
-
+Building a model to predict car price by applying linear regression.
 ## Data Description:
 
 The datasets will be obtained by applying web scraping 
-from a car sales website which is https://carvago.com/ , 
-we also might add data sets from Kaggle as well.
+from a car sales website which is https://carvago.com/.
+
     
 ## Tools:
 
